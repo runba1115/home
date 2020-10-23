@@ -1,0 +1,75 @@
+.header{
+  background-color: #99FFFF;
+  height:100px
+
+}
+.header-logo{
+  font-family:じゆうちょうフォント;
+ font-size:40px;
+ padding-top: 30px;
+ padding-right: 30px;
+ float:left;
+}
+.header-list li{
+  padding:60px 10px 10px 10px;
+  float:left;
+  list-style:none;
+  font-family:ニコモジ＋;
+  font-size:18px
+
+}
+.main{
+  background-color: #FFFFFF;
+  height:500px
+}
+.copy-container{
+  font-family:ニコモジ＋;
+  font-size:50px
+}
+.copy-container{
+  padding:50px 0px 10px 10px;
+  border-bottom: 5px solid #FFCC33
+}
+.picture{
+  float:left
+}
+.picture img{
+  width:165px;
+  height:90px;
+  padding:20px 0px 0px 0px
+}
+.picture p{
+  font-size:20px
+}
+.picture p{
+    padding:0px
+}
+.name{
+  padding:0px
+  font-family:serif;
+}
+.footer{
+  color:#ffffff;
+  font-family:serif;
+  background-color: #003366;
+  height:120px
+
+}
+.footer-logo{
+  float:left;
+  padding:30px;
+  font-size:40px
+
+
+}
+.footer-list{
+
+}
+.footer-list li{
+  float:right;
+  font-size:20px;
+  padding:50px 30px;
+  list-style:none
+
+
+}
